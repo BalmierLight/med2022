@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "أوراق عمل لمادة الفيزياء 2"
-author: hamza
+author: admin
 categories: [ منشور, مراجعة ]
 image: assets/images/logo.png
 comments: true

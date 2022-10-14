@@ -1,7 +1,7 @@
 # Site
 name: 'دفعة الطب البشري 2022'
 description: 'دفعة الطب البشري 2022'
-logo: 'assets/images/logo.jpeg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/med2022'
 disqus: 'quraish-ga'

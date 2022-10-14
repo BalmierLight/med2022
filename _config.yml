@@ -50,7 +50,7 @@ defaults:
     values:
       layout: post
       author: hamza
-      avatar: assets/images/gentle.jpg
+      avatar: assets/images/h.jpeg
       
   # all pages
   - scope:

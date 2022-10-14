@@ -1,5 +1,17 @@
 ---
 layout: post
+title:  "موقع دفعة الطب البشري 2022..."
+author: admin
+categories: [ اعلانات ]
+image: assets/images/logo.png
+comments: false
+tags: [featured, sticky]
+---
+
+## موقع دفعة الطب البشري 2022، تحت التجريب...
+
+<!-- ---
+layout: post
 title:  "أوراق عمل لمادة الفيزياء 2"
 author: admin
 categories: [ منشور, مراجعة ]
@@ -12,3 +24,4 @@ tags: []
 <hr>
 **أوراق عمل لمادة الفيزياء 2 من موقع واجباتي**
 
+ -->
